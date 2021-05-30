@@ -36,25 +36,29 @@ OpenCore config for Hackintosh OpenCore Toshiba Portege Z30-A.
 | Audio       | Realtek ALC283                      |
 
 
-## What are working (Everything)
+## What are working
 
 | **Details**                                |                                    |
 | -----------------------------------  | -------- |
 |  Turbo boost and CPU frequency stage |  ✅  |
 |  Intel UHD Graphics 4400              |  ✅  |
 |  Brightness control                  |  ✅  |
-|  HDMI                                |    |
 |  Audio Conexant ALC283 layout-id: `3` |  ✅  |
 |  Intel Ethernet I218-V            |  ✅  | 
 |  AC 3160 Wi-Fi and iServices...         |  ✅  |
 |  USB 3.0 (with Port Map)        |  ✅  |
 |  Touchpad (14 gestures are working)   |  ✅  |
 |  Battery status   |  ✅  |
-|  S3 Sleep / Wake   |    |
 |  S4 Hibernation / Wake   |  ✅  |
 |  Camera   |  ✅  |
 |  Fn shortcut keys   |  ✅  |
  
+## What aren't working
+| **Details**                                |                                    |
+| -----------------------------------  | -------- |
+|  HDMI |  ❌  |
+|  Bluetooth (i dont know why. Bluetooth not detected by Hackintosh any Wi-Fi card) |  ❌  |
+|  Sleep/Wake |  ❌  |
 
 ## What You Have to Do
 
