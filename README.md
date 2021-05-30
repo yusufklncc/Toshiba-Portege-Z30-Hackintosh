@@ -66,4 +66,4 @@ OpenCore config for Hackintosh OpenCore Toshiba Portege Z30-A.
 
 
  
-With OpenCore Configrator you should definitely set your SMBIOS settings because the config does not contain SMBIOS information MacBook Pro 11.1
+With OpenCore Configrator you should definitely set your SMBIOS settings  MacBook Pro 11.1
