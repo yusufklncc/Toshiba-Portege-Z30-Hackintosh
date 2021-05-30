@@ -25,13 +25,13 @@ OpenCore config for Hackintosh OpenCore Lenovo E570.
 <!-- omit in toc -->
 ## Hardware
 
-| **LENOVO** | Detail                                                  |
+| **TOSHIBA** | Detail                                                  |
 | ------------------- | ------------------------------------------- |
-| Model Name      | Lenovo E570      |
-| CPU              | Intel(R) Core(TM) i5-7200U CPU @ 2.40GHz Kaby Lake             |
-| RAM           | 8 GB 2400 MHz DDR4    |
-| Graphic Card | Intel(R) HD Graphics 620 (1 GB)                     |
-| Wi-Fi             | QCA9377 (replaced with DW1820A) |
+| Model Name      | Toshiba Portege Z30-A-12X      |
+| CPU              | Intel(R) Core(TM) i5-4200U CPU @ 2.60GHz Haswell             |
+| RAM           | 8 GB 1600 MHz DDR3L    |
+| Graphic Card | Intel(R) HD Graphics 4400 (1 GB)                     |
+| Wi-Fi             | Intel Dual Band Wireless AC 3160 |
 | Audio       | Conexant CX20753/4                       |
 
 
