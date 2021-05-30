@@ -6,7 +6,7 @@
     <a href="">Türkçe</a>
 </h3>
 
-<img align="right" src="https://github.com/relaxewdy/Lenovo-Thinkpad-E570-Hackintosh/blob/main/E570.png?raw=true" width="350px" alt="preview">
+<img align="right" src="https://github.com/relaxewdy/Toshiba-Portege-Z30-A-Hackintosh/blob/main/PortegeZ30-A.png" width="350px" alt="preview">
 
 OpenCore config for Hackintosh OpenCore Toshiba Portege Z30-A.
 
