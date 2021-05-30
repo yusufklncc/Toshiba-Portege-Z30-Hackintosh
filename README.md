@@ -3,7 +3,7 @@
 
 <h3> 
     English |
-    <a href="https://github.com/relaxewdy/Thinkpad-E570-Hackintosh-OpenCore/blob/main/README-tr.md">Türkçe</a>
+    <a href="">Türkçe</a>
 </h3>
 
 <img align="right" src="https://github.com/relaxewdy/Lenovo-Thinkpad-E570-Hackintosh/blob/main/E570.png?raw=true" width="350px" alt="preview">
