@@ -8,7 +8,7 @@
 
 <img align="right" src="https://github.com/relaxewdy/Lenovo-Thinkpad-E570-Hackintosh/blob/main/E570.png?raw=true" width="350px" alt="preview">
 
-OpenCore config for Hackintosh OpenCore Lenovo E570.
+OpenCore config for Hackintosh OpenCore Toshiba Portege Z30-A.
 
 [![macOS](https://img.shields.io/badge/macOS-11.3.1-orange)](https://www.apple.com/tr/macos/big-sur/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.6.9-9cf)](https://github.com/acidanthera/OpenCorePkg)
