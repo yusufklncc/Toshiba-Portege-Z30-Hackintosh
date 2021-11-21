@@ -1,10 +1,5 @@
 <!-- omit in toc -->
-#  macOS on Toshiba Portege Z30-A
-
-<h3> 
-    English |
-    <a href="">Türkçe</a>
-</h3>
+# macOS on Toshiba Portege Z30-A
 
 <img align="right" src="https://github.com/relaxewdy/Toshiba-Portege-Z30-A-Hackintosh/blob/main/PortegeZ30-A.png" width="350px" alt="preview">
 
