@@ -62,3 +62,8 @@ OpenCore config for Hackintosh OpenCore Toshiba Portege Z30-A.
 
  
 With OpenCore Configrator you should definitely set your SMBIOS settings  MacBook Pro 11.1
+
+<h1 align="center"> Donate - Bağış </h1>
+<p align="center">
+<a href="https://github.com/yusfklncc/yusfklncc/blob/main/Donate%20-%20Ba%C4%9F%C4%B1%C5%9F.md">
+  <img src="https://github.com/yusfklncc/yusfklncc/blob/main/Resources/Donate.png" width="300">
