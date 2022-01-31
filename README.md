@@ -1,7 +1,7 @@
 <h1 align="center"> macOS on Toshiba Portege Z30-A-12X </h1>
 
 <p align="center">
-  <img src="https://github.com/yusfklncc/Toshiba-Portege-Z30-A-Hackintosh/blob/main/PortegeZ30-A.png" alt="Toshiba Portege Z30-A-12X" width="500">
+  <img src="https://github.com/yusfklncc/Toshiba-Portege-Z30-A-Hackintosh/blob/main/PortegeZ30-A.png" alt="Toshiba Portege Z30-A-12X" width="400">
 </p>
 
 <h4 align="center"> OpenCore config for Hackintosh Toshiba Portege Z30-A-12X </h4>
