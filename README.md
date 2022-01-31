@@ -5,9 +5,9 @@
 
 OpenCore config for Hackintosh OpenCore Toshiba Portege Z30-A.
 
-[![macOS](https://img.shields.io/badge/macOS-11.3.1-orange)](https://www.apple.com/tr/macos/big-sur/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.9-9cf)](https://github.com/acidanthera/OpenCorePkg)
-[![release](https://img.shields.io/badge/download-lastest%20version-blue.svg)](https://github.com/relaxewdy/Thinkpad-E570-Hackintosh-OpenCore/releases/tag/relaxewdy)
+[![macOS](https://img.shields.io/badge/macOS-11.6.3-orange)](https://www.apple.com/tr/macos/big-sur/)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.7-9cf)](https://github.com/acidanthera/OpenCorePkg)
+[![release](https://img.shields.io/badge/download-lastest%20version-blue.svg)](https://github.com/relaxewdy/Toshiba-Portege-Z30-A-Hackintosh/releases)
 
 ## Screenshot
 <details>
