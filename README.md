@@ -1,24 +1,30 @@
-<!-- omit in toc -->
-# macOS on Toshiba Portege Z30-A
+<h1 align="center"> macOS on Toshiba Portege Z30-A-12X </h1>
 
-<img align="right" src="https://github.com/relaxewdy/Toshiba-Portege-Z30-A-Hackintosh/blob/main/PortegeZ30-A.png" width="350px" alt="preview">
+<p align="center">
+  <img src="https://github.com/yusfklncc/Toshiba-Portege-Z30-A-Hackintosh/blob/main/PortegeZ30-A.png" alt="Toshiba Portege Z30-A-12X" width="500">
+</p>
 
-OpenCore config for Hackintosh OpenCore Toshiba Portege Z30-A.
+<h4 align="center"> OpenCore config for Hackintosh Toshiba Portege Z30-A-12X </h4>
 
-[![macOS](https://img.shields.io/badge/macOS-11.6.3-orange)](https://www.apple.com/tr/macos/big-sur/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.7-9cf)](https://github.com/acidanthera/OpenCorePkg)
-[![release](https://img.shields.io/badge/download-lastest%20version-blue.svg)](https://github.com/relaxewdy/Toshiba-Portege-Z30-A-Hackintosh/releases)
+<p align="center">
+<a href="https://www.apple.com/macos/monterey/">
+  <img src="https://img.shields.io/badge/macOS-Big-Sur_v11.6.3-orange"/> </a>
+<a href="https://github.com/acidanthera/OpenCorePkg">
+  <img src="https://img.shields.io/badge/OpenCore-0.7.7-9cf"/> </a>
+<a href="https://github.com/yusfklncc/Toshiba-Portege-Z30-A-hackintosh/releases">
+  <img src="https://img.shields.io/badge/release-EFI-blue.svg"/> </a>
+</p>
 
-## Screenshot
+# Screenshots
+
 <details>
 <summary>Big Sur</summary>
-
-![](https://i.loli.net/2021/02/17/svA1zWm6CrGBDu3.png)
-
+<p align="center">
+  <img src="https://github.com/yusfklncc/Toshiba-Portege-Z30-A-Hackintosh/blob/main/Big%20Sur.png">
+</p>
 </details>
 
-<!-- omit in toc -->
-## Hardware
+# Hardware
 
 | **TOSHIBA** | Detail                                                  |
 | ------------------- | ------------------------------------------- |
@@ -30,14 +36,22 @@ OpenCore config for Hackintosh OpenCore Toshiba Portege Z30-A.
 | Ethernet             | Intel I218-V |
 | Audio       | Realtek ALC283                      |
 
+# Update History
+- ✅ macOS Big Sur 11.6.3
+- ✅ macOS Big Sur 11.0.1
+- ✅ macOS Catalina 10.15.7
+- ✅ macOS Mojave 10.14.6
+- ✅ macOS High Sierra 10.13.6
+- ✅ macOS Sierra 10.12.6
+- 
 
-## What are working
-
-| **Details**                                |                                    |
+# What's Working?
+|                                 |                                    |
 | -----------------------------------  | -------- |
 |  Turbo boost and CPU frequency stage |  ✅  |
 |  Intel UHD Graphics 4400              |  ✅  |
 |  Brightness control                  |  ✅  |
+|  HDMI                                |  ✅  |
 |  Audio Conexant ALC283 layout-id: `3` |  ✅  |
 |  Intel Ethernet I218-V            |  ✅  | 
 |  AC 3160 Wi-Fi and iServices...         |  ✅  |
@@ -48,20 +62,18 @@ OpenCore config for Hackintosh OpenCore Toshiba Portege Z30-A.
 |  Camera   |  ✅  |
 |  Fn shortcut keys   |  ✅  |
  
-## What aren't working
-| **Details**                                |                                    |
+# What aren't working
+|                               |                                    |
 | -----------------------------------  | -------- |
-|  HDMI |  ❌  |
 |  Bluetooth (i dont know why. Bluetooth not detected by Hackintosh any Wi-Fi card) |  ❌  |
 |  Sleep/Wake |  ❌  |
 
-## What You Have to Do
+# What You Have to Do?
+|                                 |                                    |
+| -----------------------------------  | -------- |
+|  SMBIOS Settings  | ⚠️ |
 
-- SMBIOS Settings
-
-
- 
-With OpenCore Configrator you should definitely set your SMBIOS settings  MacBook Pro 11.1
+- With OpenCore Configrator you should set your SMBIOS settings: MacBook Pro 14.1
 
 <h1 align="center"> Donate - Bağış </h1>
 <p align="center">
