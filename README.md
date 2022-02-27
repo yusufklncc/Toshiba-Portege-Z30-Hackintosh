@@ -1,7 +1,7 @@
 <h1 align="center"> macOS on Toshiba Portege Z30-A-12X </h1>
 
 <p align="center">
-  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-A-Hackintosh/blob/main/PortegeZ30-A.png" alt="Toshiba Portege Z30-A-12X" width="400">
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/PortegeZ30-A.png" alt="Toshiba Portege Z30-A-12X" width="400">
 </p>
 
 <h4 align="center"> OpenCore config for Hackintosh Toshiba Portege Z30-A-12X </h4>
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/macOS-Big_Sur_v11.6.3-orange"/> </a>
 <a href="https://github.com/acidanthera/OpenCorePkg">
   <img src="https://img.shields.io/badge/OpenCore-0.7.7-9cf"/> </a>
-<a href="https://github.com/yusufklncc/Toshiba-Portege-Z30-A-hackintosh/releases">
+<a href="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/releases">
   <img src="https://img.shields.io/badge/release-EFI-blue.svg"/> </a>
 </p>
 
@@ -20,7 +20,7 @@
 <details>
 <summary>Big Sur</summary>
 <p align="center">
-  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-A-Hackintosh/blob/main/Big%20Sur.png">
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Big%20Sur.png">
 </p>
 </details>
 
