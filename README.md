@@ -44,6 +44,15 @@
 </p>
 </details>
 
+### CPU Temperature  
+- Minimum
+
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/Min%20CPU%20Frequency%20and%20Temperature.png" width="300">
+  
+- Maximum
+
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/Max%20CPU%20Frequency%20and%20Temperature.png" width="300">
+
 ## Original Hardware  💻
 
 Type | Spec | Status
@@ -62,13 +71,16 @@ Display | ?? | ✅
 Camera | ?? | ✅
 
 # Update History
+- ✅ macOS Monterey 12.3.1
+- ✅ macOS Monterey 12.3
 - ✅ macOS Big Sur 11.6.3
 - ✅ macOS Big Sur 11.0.1
 - ✅ macOS Catalina 10.15.7
 - ✅ macOS Mojave 10.14.6
 - ✅ macOS High Sierra 10.13.6
 - ✅ macOS Sierra 10.12.6
-- 
+- ✅ macOS Sierra 10.11.6
+- ✅ macOS Sierra 10.10.5
 
 # What's Working?
 |                                 |                                    |
