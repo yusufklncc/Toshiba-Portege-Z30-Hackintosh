@@ -103,7 +103,7 @@ Fn shortcut keys   |  ✅
 ## What's aren't working  💻
   
 Type | Info | Status
-:---------|:---------
+:---------|:---------|:---------
 Bluetooth | I don't know why. Bluetooth not detected by Hackintosh on any Wi-Fi card. | ❌ 
 
 ## What's you have to do  💻
