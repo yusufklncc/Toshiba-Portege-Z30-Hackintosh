@@ -80,37 +80,48 @@ Camera | ?? | ✅
 - ✅ macOS Sierra 10.11.6
 - ✅ macOS Sierra 10.10.5
 
-# What's Working?
-|                                 |                                    |
-| -----------------------------------  | -------- |
-|  Turbo boost and CPU frequency stage |  ✅  |
-|  Intel UHD Graphics 4400              |  ✅  |
-|  Brightness control                  |  ✅  |
-|  HDMI                                |  ✅  |
-|  Audio Conexant ALC283 layout-id: `3` |  ✅  |
-|  Intel Ethernet I218-V            |  ✅  | 
-|  AC 3160 Wi-Fi and iServices...         |  ✅  |
-|  USB 3.0 (with Port Map)        |  ✅  |
-|  Touchpad (14 gestures are working)   |  ✅  |
-|  Battery status   |  ✅  |
-|  S4 Hibernation / Wake   |  ✅  |
-|  Camera   |  ✅  |
-|  Fn shortcut keys   |  ✅  |
+## What's working  💻
+  
+Type | Status
+:---------|:---------
+Turbo boost and CPU frequency stage |  ✅  
+Intel HD Graphics 4400              |  ✅  
+Brightness control                  |  ✅  
+HDMI                                |  ✅  
+Audio Realtek ALC283            |  ✅  
+Intel Ethernet I218-V            |  ✅  
+Intel AC 3160 Wi-Fi and iServices...         |  ✅  
+USB 3.0 (with Port Map)        |  ✅  
+Touchpad (14 gestures are working)   |  ✅  
+Battery status   |  ✅  
+Camera   |  ✅  
+S3 Sleep / Wake   |  ✅  
+S4 Hibernation / Wake   |  ✅  
+Shutdown / Reboot   |  ✅  
+Fn shortcut keys   |  ✅  
  
-# What aren't working
-|                               |                                    |
-| -----------------------------------  | -------- |
-|  Bluetooth (i dont know why. Bluetooth not detected by Hackintosh any Wi-Fi card) |  ❌  |
-|  Sleep/Wake |  ❌  |
+## What's aren't working  💻
+  
+Type | Info | Status
+:---------|:---------
+Bluetooth | I don't know why. Bluetooth not detected by Hackintosh on any Wi-Fi card. | ❌ 
 
-# What You Have to Do?
-|                                 |                                    |
-| -----------------------------------  | -------- |
-|  SMBIOS Settings  | ⚠️ |
+## What's you have to do  💻
+  
+Type | Info | Status
+:---------|:---------|:----------
+SMBIOS Settings  | With [GenSMBIOS] you should definitely set your SMBIOS settings and ROM value for iCloud and Apple services. ROM value is your ethernet MAC address. Be sure your ethernet is en0 in Hackintool. |  ⚠️
 
-- With OpenCore Configrator you should set your SMBIOS settings: MacBook Pro 14.1
+## Credits
+  
+ - [Dortania](https://dortania.github.io) for developing OpenCore.
+ - [Apple](https://www.apple.com) for macOS.
+ - [Acidanthera](https://github.com/acidanthera) for most of the kexts.
+ - [RehabMan](https://github.com/RehabMan) for battery patches.
+ - [Sniki](https://github.com/Sniki) for USB kext.
+ - And anyone else that helped to develop and improve hackintoshing.
 
 <h1 align="center"> Donate - Bağış </h1>
 <p align="center">
-<a href="https://github.com/yusufklncc/yusufklncc/blob/main/Donate%20-%20Ba%C4%9F%C4%B1%C5%9F.md">
-  <img src="https://github.com/yusufklncc/yusufklncc/blob/main/Resources/Donate.png" width="300">
+<a href="https://github.com/yusufklncc/yusfklncc/blob/main/Donate%20-%20Ba%C4%9F%C4%B1%C5%9F.md">
+  <img src="https://github.com/yusufklncc/yusfklncc/blob/main/Resources/Donate.png" width="300">
