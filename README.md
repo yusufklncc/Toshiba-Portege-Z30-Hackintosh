@@ -24,12 +24,23 @@
 <a href="https://www.paypal.com/paypalme/sevenpay">
   <img src="https://img.shields.io/badge/-@sevenpay-2CA5E0?logo=PayPal&logoColor=red" width="140"/> </a>
 
-# Screenshots
+## Screenshots
 
+<p align="center">
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/macOS%20Screenshots/About%20This%20Mac%20-%20Monterey.png">
+</p>
+  
+<details>
+<summary>Monterey</summary>
+<p align="center">
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/macOS%20Screenshots/macOS%20Monterey.png">
+</p>
+</details>
+  
 <details>
 <summary>Big Sur</summary>
 <p align="center">
-  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Big%20Sur.png">
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/macOS%20Screenshots/macOS%20Big%20Sur.png">
 </p>
 </details>
 
