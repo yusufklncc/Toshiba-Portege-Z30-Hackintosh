@@ -1,19 +1,30 @@
 <h1 align="center"> macOS on Toshiba Portege Z30-A-12X </h1>
 
+<h1 align="center"> macOS on Toshiba Portege Z30-A-12X </h1>
+
 <p align="center">
-  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/PortegeZ30-A.png" alt="Toshiba Portege Z30-A-12X" width="400">
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/Toshiba%20Portege%20Z30-A.png" alt="Portege Z30-A">
 </p>
 
 <h4 align="center"> OpenCore config for Hackintosh Toshiba Portege Z30-A-12X </h4>
 
 <p align="center">
 <a href="https://www.apple.com/macos/monterey/">
-  <img src="https://img.shields.io/badge/macOS-Big_Sur_v11.6.3-orange"/> </a>
-<a href="https://github.com/acidanthera/OpenCorePkg">
-  <img src="https://img.shields.io/badge/OpenCore-0.7.7-9cf"/> </a>
+  <img src="https://img.shields.io/badge/macOS-Monterey_v12.3.1-blue" width="215"/> </a>
+<a href="https://github.com/acidanthera/OpenCorePkg/releases">
+  <img src="https://img.shields.io/badge/OpenCore-0.8.0-9cf" width="155"/> </a>
 <a href="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/releases">
-  <img src="https://img.shields.io/badge/release-EFI-blue.svg"/> </a>
+  <img src="https://img.shields.io/badge/release-EFI-blue.svg" width="115"/> </a>
+<a href="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#changelog">
+  <img src="https://img.shields.io/badge/Changelog-green.svg" width="105"/> </a>
 </p>
+<p align="center">
+<a href="https://t.me/yusufklncc">
+  <img src="https://img.shields.io/badge/-@yusufklncc-2CA5E0?logo=Telegram&logoColor=blue" width="150"/> </a>
+<a href="https://www.youtube.com/c/yusufklncc">
+  <img src="https://img.shields.io/badge/-@yusufklncc-lightgrey?logo=YouTube&logoColor=red" width="150"/> </a>
+<a href="https://www.paypal.com/paypalme/sevenpay">
+  <img src="https://img.shields.io/badge/-@sevenpay-2CA5E0?logo=PayPal&logoColor=red" width="140"/> </a>
 
 # Screenshots
 
