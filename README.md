@@ -54,12 +54,12 @@
 ### Geekbench
 - CPU
 <p align="center">
-  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/CPU%20Geekbench.png">
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/CPU%20Geekbench.png" width="500"/> </a>
 </p>
   
 - OpenCL
 <p align="center">
-  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/OpenCL.png">
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/OpenCL.png" width="500"/> </a>
 </p>
   
 
