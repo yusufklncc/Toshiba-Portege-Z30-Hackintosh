@@ -1,7 +1,5 @@
 <h1 align="center"> macOS on Toshiba Portege Z30-A-12X </h1>
 
-<h1 align="center"> macOS on Toshiba Portege Z30-A-12X </h1>
-
 <p align="center">
   <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/Toshiba%20Portege%20Z30-A.png" alt="Portege Z30-A">
 </p>
