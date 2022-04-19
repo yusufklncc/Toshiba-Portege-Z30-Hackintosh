@@ -50,6 +50,16 @@
   <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/Min%20CPU%20Frequency%20and%20Temperature.png" width="300">
 
   <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/Max%20CPU%20Frequency%20and%20Temperature.png" width="300">
+  
+### Geekbench
+- CPU
+
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/CPU%20Geekbench.png" width="300">
+  
+- OpenCL
+
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/OpenCL.png" width="300">
+  
 
 ## Original Hardware  💻
 
