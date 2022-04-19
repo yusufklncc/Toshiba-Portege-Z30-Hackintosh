@@ -75,7 +75,7 @@ Wi-Fi             | Intel Dual Band Wireless AC 3160 | ❌
 Ethernet          | Intel I218-V | ✅
 Audio       | Realtek ALC283 | ✅
 Touchpad | ?? | ✅
-SD Card Reader | ?? | ⚠️
+SD Card Reader | RTS5227 PCI Express Card Reader  | ⚠️
 Fingerprint | ?? | ❌
 Display | ?? | ✅
 Camera | ?? | ✅
