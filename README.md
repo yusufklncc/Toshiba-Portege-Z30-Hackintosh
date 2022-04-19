@@ -27,13 +27,13 @@
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/macOS%20Screenshots/About%20This%20Mac%20-%20Monterey.png">
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/macOS%20Screenshots/About%20This%20M%20-%20Monterey.png">
 </p>
   
 <details>
 <summary>Monterey</summary>
 <p align="center">
-  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/macOS%20Screenshots/macOS%20Monterey.png">
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/macOS%20Screenshots/macOS%20Monter.png">
 </p>
 </details>
   
