@@ -74,11 +74,11 @@ Internal Graphics Card | Intel(R) HD Graphics 4400 (1 GB) | ✅
 Wi-Fi             | Intel Dual Band Wireless AC 3160 | ❌
 Ethernet          | Intel I218-V | ✅
 Audio       | Realtek ALC283 | ✅
-Touchpad | ?? | ✅
+Touchpad | ALPS PS/2 Pointing Device | ✅
 SD Card Reader | RTS5227 PCI Express Card Reader  | ⚠️
 Fingerprint | ?? | ❌
 Display | ?? | ✅
-Camera | ?? | ✅
+Camera | Toshiba Webcam | ✅
 
 # Update History
 - ✅ macOS Monterey 12.3.1
