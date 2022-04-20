@@ -71,11 +71,11 @@ Model Name      | Toshiba Portege Z30-A-12X | ✅
 CPU              | Intel(R) Core(TM) i5-4200U CPU @ 2.60GHz Haswell | ✅
 RAM           | 8 GB 1600 MHz DDR3L | ✅
 Internal Graphics Card | Intel(R) HD Graphics 4400 (1 GB) | ✅
-Wi-Fi             | Intel Dual Band Wireless AC 3160 | ❌
+Wi-Fi             | Intel Dual Band Wireless AC 3160 | ✅
 Ethernet          | Intel I218-V | ✅
 Audio       | Realtek ALC283 | ✅
 Touchpad | ALPS PS/2 Pointing Device | ✅
-SD Card Reader | RTS5227 PCI Express Card Reader  | ⚠️
+SD Card Reader | RTS5227 PCI Express Card Reader  | ✅
 Fingerprint | ?? | ❌
 Display | ?? | ✅
 Camera | Toshiba Webcam | ✅
