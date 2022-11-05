@@ -26,14 +26,14 @@
 
 
 ## Contents
-  - [Screenshots](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#screenshots-)
+  - [Screenshots](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#screenshots)
   - [Original Hardware](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#original-hardware--)
   - [macOS Update History](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#macos-update-history)
   - [What's working](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#whats-working--)
   - [What's you have to do](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#whats-you-have-to-do--)
-  - [Kexts Used](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#kexts-used--)
+  - [Kexts Used](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#kexts-used)
   - [Credits](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#credits)
-  - [Donate](https://github.com/yusufklncc/yusfklncc/blob/main/Donate%20-%20Bağış.md)
+  - [Donate](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#-donate---ba%C4%9F%C4%B1%C5%9F-)
 
 ## Screenshots
 
