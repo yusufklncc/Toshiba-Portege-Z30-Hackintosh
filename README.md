@@ -32,6 +32,7 @@
   - [What's working](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#whats-working--)
   - [What's you have to do](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#whats-you-have-to-do--)
   - [Kexts Used](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#kexts-used)
+  - [SSDTs Used](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#ssdts-used)
   - [Credits](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#credits)
   - [Donate](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#-donate---ba%C4%9F%C4%B1%C5%9F-)
 
