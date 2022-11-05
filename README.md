@@ -1,16 +1,16 @@
 <h1 align="center"> macOS on Toshiba Portege Z30-A-12X </h1>
 
 <p align="center">
-  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/Toshiba%20Portege%20Z30.png" alt="Portege Z30-A">
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/Toshiba%20Portege%20Z30.png">
 </p>
 
 <h4 align="center"> OpenCore config for Hackintosh Toshiba Portege Z30-A-12X </h4>
 
 <p align="center">
 <a href="https://www.apple.com/macos/monterey/">
-  <img src="https://img.shields.io/badge/macOS-Monterey_v12.3.1-blue" width="215"/> </a>
+  <img src="https://img.shields.io/badge/macOS-Monterey_v12.6.1-purple" width="215"/> </a>
 <a href="https://github.com/acidanthera/OpenCorePkg/releases">
-  <img src="https://img.shields.io/badge/OpenCore-0.8.0-9cf" width="155"/> </a>
+  <img src="https://img.shields.io/badge/OpenCore-0.8.5-9cf" width="155"/> </a>
 <a href="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/releases">
   <img src="https://img.shields.io/badge/release-EFI-blue.svg" width="115"/> </a>
 <a href="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#changelog">
@@ -20,9 +20,21 @@
 <a href="https://t.me/yusufklncc">
   <img src="https://img.shields.io/badge/-@yusufklncc-2CA5E0?logo=Telegram&logoColor=blue" width="150"/> </a>
 <a href="https://www.youtube.com/c/yusufklncc">
-  <img src="https://img.shields.io/badge/-@yusufklncc-lightgrey?logo=YouTube&logoColor=red" width="150"/> </a>
+  <img src="https://img.shields.io/badge/-@yusufklncc-red?logo=YouTube&logoColor=white" width="150"/> </a>
 <a href="https://www.paypal.com/paypalme/sevenpay">
   <img src="https://img.shields.io/badge/-@sevenpay-2CA5E0?logo=PayPal&logoColor=red" width="140"/> </a>
+
+
+## Contents
+  - [Screenshots](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#screenshots-)
+  - [Original Hardware](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#original-hardware--)
+  - [macOS Update History](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#macos-update-history)
+  - [What's working](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#whats-working--)
+  - [What's not working](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#whats-not-working--)
+  - [What's you have to do](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#whats-you-have-to-do--)
+  - [Kexts Used](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#kexts-used--)
+  - [Credits](https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh#credits)
+  - [Donate](https://github.com/yusufklncc/yusfklncc/blob/main/Donate%20-%20Bağış.md)
 
 ## Screenshots
 
@@ -80,7 +92,8 @@ Fingerprint | ?? | ❌
 Display | ?? | ✅
 Camera | Toshiba Webcam | ✅
 
-# Update History
+## macOS Update History
+- ✅ macOS Monterey 12.6.1
 - ✅ macOS Monterey 12.3.1
 - ✅ macOS Monterey 12.3
 - ✅ macOS Big Sur 11.6.3
@@ -112,7 +125,7 @@ S4 Hibernation / Wake   |  ✅
 Shutdown / Reboot   |  ✅  
 Fn shortcut keys   |  ✅  
  
-## What's aren't working  💻
+## What's not working  💻
   
 Type | Info | Status
 :---------|:---------|:---------
@@ -123,6 +136,31 @@ Bluetooth | I don't know why. Bluetooth not detected by Hackintosh on any Wi-Fi 
 Type | Info | Status
 :---------|:---------|:----------
 SMBIOS Settings  | With [GenSMBIOS] you should definitely set your SMBIOS settings and ROM value for iCloud and Apple services. ROM value is your ethernet MAC address. Be sure your ethernet is en0 in Hackintool. |  ⚠️
+
+
+## Kext Used 
+ 
+Kext | Info 
+:---------|:---------
+[Lilu](https://github.com/acidanthera/Lilu) | An open source kernel extension bringing a platform for arbitrary kext, library, and program patching throughout the system for macOS.
+[VirtualSMC](https://github.com/acidanthera/VirtualSMC) | Advanced Apple SMC emulator in the kernel. Requires Lilu for full functioning.
+[WhateverGreen](https://github.com/acidanthera/WhateverGreen) | Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs. This is needed for Intel HD 620.
+[SMCBatteryManager](https://github.com/acidanthera/VirtualSMC) | a member of VirtualSMC that parses battery info.
+[SMCProcessor](https://github.com/acidanthera/VirtualSMC) | a member of VirtualSMC that provides power info of processor temperature.
+[AppleALC.kext](https://github.com/acidanthera/AppleALC) | An open source kernel extension enabling native macOS HD audio for not officially supported codecs without any filesystem modifications.
+[USBToolBox](https://www.youtube.com/watch?v=rlTDHkPzjAk&t=654s) | Kext to inject mapped USB Ports for Catalina and newer.
+[UTBMap](https://www.youtube.com/watch?v=rlTDHkPzjAk&t=654s) | Kext to inject mapped USB Ports for Mojave and older.
+[CPUFriend](https://github.com/acidanthera/CPUFriend) | A Lilu plug-in for dynamic power management data injection.
+[CPUFriendDataProvider](https://github.com/acidanthera/CPUFriend) | A CPUFriend plug-in for CPU power management.
+[VoodooPS2Controller](https://github.com/acidanthera/VoodooPS2) | Contains updated Voodoo PS/2 Controller, improved Keyboard & Synaptics TouchPad.
+[IntelMausi](https://github.com/acidanthera/IntelMausi) | [Ethernet] Intel onboard LAN driver for macOS.
+[AirportItlwm](https://github.com/OpenIntelWireless/itlwm) | [Wi-Fi] An Intel Wi-Fi Adapter Kernel Extension for macOS.
+[Sinetek-rtsx](https://www.insanelymac.com/forum/topic/321080-sineteks-driver-for-realtek-rtsx-sdhc-card-readers/page/2/#comment-2376387) | This driver is for Realtek SDHC card readers on a pci/pcie bus, most commonly found in laptops.
+[RTCMemoryFixup](https://github.com/acidanthera/RTCMemoryFixup#rtcmemoryfixup) | An open source kernel extension providing a way to emulate some offsets in CMOS (RTC) memory. It can help you to avoid some conflicts between macOS AppleRTC and firmware/BIOS of your PC.
+[FeatureUnlock](https://github.com/acidanthera/FeatureUnlock) | Lilu Kernel extension for enabling: Sidecar, NightShift, AirPlay to Mac, Universal Control.
+[RestrictEvents](https://github.com/acidanthera/RestrictEvents) | Lilu Kernel extension for blocking unwanted processes causing compatibility issues on different hardware and unlocking the support for certain features restricted to other hardware.
+[NoTouchID](https://github.com/al3xtjames/NoTouchID) | Lilu plugin for disabling Touch ID support.
+
 
 ## Credits
   
