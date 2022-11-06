@@ -84,13 +84,6 @@
 </details>
 
 <details>
-<summary>Bluetooth</summary>
-<p align="center">
-  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/Bluetooth.png">
-</p>
-</details>
-
-<details>
 <summary>System Preferences</summary>
 <p align="center">
   <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/System%20Preferences.png">
