@@ -148,9 +148,6 @@ Kext | Info
 [CPUFriend](https://github.com/acidanthera/CPUFriend) | A Lilu plug-in for dynamic power management data injection.
 [CPUFriendDataProvider](https://github.com/acidanthera/CPUFriend) | A CPUFriend plug-in for CPU power management.
 [VoodooPS2Controller](https://github.com/acidanthera/VoodooPS2) | Contains updated Voodoo PS/2 Controller, improved Keyboard & Synaptics TouchPad.
-[VoodooInput](https://github.com/acidanthera/VoodooPS2) | [Touchpad] PS/2 touchpad gesture provider
-[VoodooPS2Keyboard](https://github.com/acidanthera/VoodooPS2) | [Keyboard] PS/2 keyboard driver
-[VoodooPS2Trackpad](https://github.com/acidanthera/VoodooPS2) | [Trackpad] PS/2 touchpad driver
 [IntelMausi](https://github.com/acidanthera/IntelMausi) | [Ethernet] Intel onboard LAN driver for macOS.
 [AirportItlwm](https://github.com/OpenIntelWireless/itlwm) | [Wi-Fi] An Intel Wi-Fi Adapter Kernel Extension for macOS.
 [ToshibaBluetooth](https://www.tonymacx86.com/threads/bluetooth-is-not-detected-in-hackintool-or-system-report.318629/page-7#post-2331092) | [Bluetooh] This kext for toshiba. (thanks idragon81 from tonymacx86)
