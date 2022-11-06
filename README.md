@@ -44,20 +44,6 @@
   <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/macOS%20Screenshots/About%20This%20Mac%20-%20Monterey.png">
 </p>
   
-<details>
-<summary>Monterey</summary>
-<p align="center">
-  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/macOS%20Screenshots/macOS%20Monterey.png">
-</p>
-</details>
-  
-<details>
-<summary>Big Sur</summary>
-<p align="center">
-  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/macOS%20Screenshots/macOS%20Big%20Sur.png">
-</p>
-</details>
-
 ### CPU Temperature  
 - Minimum and Maximum
 
@@ -75,7 +61,42 @@
 <p align="center">
   <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/OpenCL.png" width="500"/> </a>
 </p>
+
+<details>
+<summary>Monterey</summary>
+<p align="center">
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/macOS%20Screenshots/macOS%20Monterey.png">
+</p>
+</details>
   
+<details>
+<summary>Big Sur</summary>
+<p align="center">
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/macOS%20Screenshots/macOS%20Big%20Sur.png">
+</p>
+</details>
+
+<details>
+<summary>Bluetooth</summary>
+<p align="center">
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/Bluetooth.png">
+</p>
+</details>
+
+<details>
+<summary>Bluetooth</summary>
+<p align="center">
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/Bluetooth.png">
+</p>
+</details>
+
+<details>
+<summary>System Preferences</summary>
+<p align="center">
+  <img src="https://github.com/yusufklncc/Toshiba-Portege-Z30-Hackintosh/blob/main/Resources/Images/System%20Preferences.png">
+</p>
+</details>
+
 
 ## Original Hardware  💻
 
