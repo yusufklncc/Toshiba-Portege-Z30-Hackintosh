@@ -144,8 +144,7 @@ Kext | Info
 [SMCBatteryManager](https://github.com/acidanthera/VirtualSMC) | a member of VirtualSMC that parses battery info.
 [SMCProcessor](https://github.com/acidanthera/VirtualSMC) | a member of VirtualSMC that provides power info of processor temperature.
 [AppleALC.kext](https://github.com/acidanthera/AppleALC) | An open source kernel extension enabling native macOS HD audio for not officially supported codecs without any filesystem modifications.
-[USBToolBox](https://www.youtube.com/watch?v=rlTDHkPzjAk&t=654s) | [USB] USBToolBox kext is a kext intended to make common actions for USB mapping easier. It supports El Capitan and up, although only Catalina and up have been tested.
-[UTBMap](https://www.youtube.com/watch?v=rlTDHkPzjAk&t=654s) | [USB] Kext to inject mapped USB Ports. (via USBToolBox)
+[USBPorts](https://www.youtube.com/watch?v=rlTDHkPzjAk&t=654s) | [USB] Kext to inject mapped USB Ports. (via Hackintool)
 [CPUFriend](https://github.com/acidanthera/CPUFriend) | A Lilu plug-in for dynamic power management data injection.
 [CPUFriendDataProvider](https://github.com/acidanthera/CPUFriend) | A CPUFriend plug-in for CPU power management.
 [VoodooPS2Controller](https://github.com/acidanthera/VoodooPS2) | Contains updated Voodoo PS/2 Controller, improved Keyboard & Synaptics TouchPad.
